@@ -20,7 +20,7 @@ const App = () => {
       <Layout style={{ minHeight: '100vh' }}>
         <Sider collapsible collapsed={isCollape} onCollapse={(value) => { setCollape(value) }}>
           <div className="logo" />
-          <Menu theme="dark" defaultSelectedKeys={[window.location.hash.toString()]} mode="inline">
+          <Menu theme="light" defaultSelectedKeys={[window.location.hash.toString()]} mode="inline">
             <Menu.Item key="#/" icon={<PieChartOutlined />}>Profile<Link to={"/"} />
             </Menu.Item>
             <Menu.Item key="#/Operation/" icon={<UserOutlined />}>Operation<Link to={"/Operation/"} />
