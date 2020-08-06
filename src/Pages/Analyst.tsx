@@ -25,7 +25,7 @@ const MyCardItem = (cardInfo: cardInfo) => {
     )
 }
 
-const Page1 = () => {
+const Analyst = () => {
     const totalTestCase = 50;
     const totalAutomationTest = 100;
 
@@ -79,4 +79,4 @@ const Page1 = () => {
     );
 }
 
-export default Page1;
+export default Analyst;

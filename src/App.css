@@ -31,7 +31,7 @@
 }
 
 .site-layout-header{
-  background: rgb(75, 75, 75);
+  background: #FFFFFF;
 }
 
 .site-layout{
@@ -47,26 +47,6 @@
 
 .App-link {
   color: #61dafb;
-}
-
-.ant-layout-sider{
-  background: rgb(255, 204, 0)
-}
-
-.ant-layout-sider .ant-layout-sider-trigger{
-  background: rgb(229, 183, 0)
-}
-
-.ant-menu-inline, .ant-menu-vertical, .ant-menu-vertical-left{
-  border-right: none
-}
-
-.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
-  background: rgb(229, 183, 0)
-}
-
-.ant-menu{
-  background: rgb(255, 204, 0)
 }
 
 @keyframes App-logo-spin {
