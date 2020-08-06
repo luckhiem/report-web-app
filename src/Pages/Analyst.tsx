@@ -64,8 +64,7 @@ const Analyst = () => {
                     gutter={gutter}
                     justify='space-around'>
                     {
-                        cardsList.map((item) => {
-                            console.log(item)
+                        cardsList.map((item: cardInfo) => {
                             return (
                                 <Col key={item.content} span={Math.floor(24 / length)}>
                                     <MyCardItem {...item} />
