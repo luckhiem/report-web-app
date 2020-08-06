@@ -1,10 +1,11 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import 'antd/dist/antd.css';
 import './Analyst.css'
 import { Descriptions, Row, Col, Card } from 'antd';
 import {
     AppstoreOutlined,
 } from '@ant-design/icons';
+import { DataReportContext } from '../App';
 
 interface cardInfo {
     labelColor?: string,
@@ -26,6 +27,8 @@ const MyCardItem = (cardInfo: cardInfo) => {
 }
 
 const Analyst = () => {
+    const { dataReport } = useContext(DataReportContext);
+    console.log(dataReport)
     const totalTestCase = 50;
     const totalAutomationTest = 100;
 

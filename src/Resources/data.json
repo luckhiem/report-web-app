@@ -1,0 +1,168 @@
+{
+    "Elite": {
+        "info": {
+            "name":"Elite Automation Project",
+            "description":"This is project automation Elite Automation Project",
+            "created": "Bui Minh Tuan",
+            "department": "QA Department",
+            "creation_time": "2020-07-07",
+            "effective_time": "2020-07-20",
+            "remarks": "106 Nguyen Van Troi, Phuong 8, Quan Phu Nhuan, TPHCM"
+        },
+        "totalData": [
+            {
+                "name": "Automation",
+                "total": 120
+            },
+            {
+                "name": "Total Test Case",
+                "total": 300
+            }
+        ],
+        "dateData": [
+            {
+                "date": "July 08, 2020",
+                "testCases": 300
+            },
+            {
+                "date": "July 09, 2020",
+                "testCases": 100
+            },
+            {
+                "date": "July 10, 2020",
+                "testCases": 9
+            },
+            {
+                "date": "July 11, 2020",
+                "testCases": 53
+            },
+            {
+                "date": "July 12, 2020",
+                "testCases": 252
+            },
+            {
+                "date": "July 13, 2020",
+                "testCases": 300
+            },
+            {
+                "date": "July 14, 2020",
+                "testCases": 100
+            },
+            {
+                "date": "July 15, 2020",
+                "testCases": 9
+            },
+            {
+                "date": "July 16, 2020",
+                "testCases": 53
+            },
+            {
+                "date": "July 17, 2020",
+                "testCases": 252
+            },
+            {
+                "date": "July 18, 2020",
+                "testCases": 300
+            },
+            {
+                "date": "July 19, 2020",
+                "testCases": 100
+            },
+            {
+                "date": "July 20, 2020",
+                "testCases": 9
+            },
+            {
+                "date": "July 21, 2020",
+                "testCases": 53
+            },
+            {
+                "date": "July 22, 2020",
+                "testCases": 252
+            }
+        ]
+    },
+    "Luxury": {
+        "info": {
+            "name":"Luxury Automation Project",
+            "description":"This is project automation Luxury Automation Project",
+            "created": "Bui Minh Tuan",
+            "department": "Development Department",
+            "creation_time": "2020-07-07",
+            "effective_time": "2020-07-20",
+            "remarks": "106 Nguyen Van Troi, Phuong 8, Quan Phu Nhuan, TPHCM"
+        },
+        "totalData": [
+            {
+                "name": "Automation",
+                "total": 100
+            },
+            {
+                "name": "Total Test Case",
+                "total": 150
+            }
+        ],
+        "dateData": [
+            {
+                "date": "July 08, 2020",
+                "testCases": 20
+            },
+            {
+                "date": "July 09, 2020",
+                "testCases": 29
+            },
+            {
+                "date": "July 10, 2020",
+                "testCases": 9
+            },
+            {
+                "date": "July 11, 2020",
+                "testCases": 53
+            },
+            {
+                "date": "July 12, 2020",
+                "testCases": 52
+            },
+            {
+                "date": "July 13, 2020",
+                "testCases": 30
+            },
+            {
+                "date": "July 14, 2020",
+                "testCases": 10
+            },
+            {
+                "date": "July 15, 2020",
+                "testCases": 9
+            },
+            {
+                "date": "July 16, 2020",
+                "testCases": 53
+            },
+            {
+                "date": "July 17, 2020",
+                "testCases": 22
+            },
+            {
+                "date": "July 18, 2020",
+                "testCases": 39
+            },
+            {
+                "date": "July 19, 2020",
+                "testCases": 12
+            },
+            {
+                "date": "July 20, 2020",
+                "testCases": 9
+            },
+            {
+                "date": "July 21, 2020",
+                "testCases": 53
+            },
+            {
+                "date": "July 22, 2020",
+                "testCases": 22
+            }
+        ]
+    }
+}
