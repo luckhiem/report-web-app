@@ -1,6 +1,6 @@
 import React from 'react';
 import 'antd/dist/antd.css';
-import './Index.css'
+import './Analyst.css'
 import { Descriptions, Row, Col, Card } from 'antd';
 import {
     AppstoreOutlined,
