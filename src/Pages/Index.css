@@ -1,0 +1,48 @@
+
+ .area_subject {
+    font-size: 24px;
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 300;
+    color: #555c63;
+    line-height: 3rem;
+    margin: 20px 0;
+  }
+
+  .area_subject i {
+    color: #9aa0ac;
+    margin-right: 20px;
+  }
+
+  .dash_board {
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+   }
+
+  .dash_board p {
+    margin: 0;
+   }
+
+  .dash_board .card_item_title {
+    color: #0ebf8c;
+    text-align: center;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.1;
+   }
+
+  .dash_board .card_item_content {
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 600;
+    color: #9aa0ac;
+    font-weight: 400;
+    font-size: 12px;
+   }
+
+  .dash_board .card_item_label {
+    text-align: right;
+    font-size: 12px;
+    word-spacing: 0;
+    height: 14px;
+    letter-spacing: 0px;
+    word-spacing: -2px;
+   }
