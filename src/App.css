@@ -31,7 +31,7 @@
 }
 
 .site-layout-header{
-  background: #FFFFFF;
+  background: linear-gradient(90deg, rgba(17,67,105,1) 0%, rgba(0,0,8,1) 50%, rgba(0,212,255,1) 100%);
 }
 
 .site-layout .site-layout-background {
