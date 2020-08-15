@@ -39,7 +39,7 @@ const App = () => {
             </Menu>
           </Sider>
           <Layout className="site-layout">
-            <Header className="site-layout-header" />
+            <Header className="site-layout-header">Report</Header>
             <Content style={{ margin: '24px' }}>
               <div className="site-layout-background" style={{ padding: 24, minHeight: '100vh' }}>
                 <Switch>
